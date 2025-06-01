@@ -125,6 +125,7 @@ Please ensure your code follows consistent style and includes minimal but clear 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+[![DOI](https://zenodo.org/badge/994345371.svg)](https://doi.org/10.5281/zenodo.15570995)
 
 ---
 
@@ -136,3 +137,4 @@ If you need help, have questions, or want to report an issue, please contact:
 > Email: [theo.ferreira@aphp.fr](mailto:theo.ferreira@aphp.fr)
 
 Feel free to reach out for assistance with installation, data formatting, or troubleshooting.
+
