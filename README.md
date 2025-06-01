@@ -1,4 +1,7 @@
+````markdown
 # Biome4all
+
+![Biome4all Logo](www/hutch.png)
 
 **Biome4all** is a Shiny application designed to help  visualize and analyze microbiome data.
 
@@ -53,7 +56,7 @@
    ))
    ```
 
-4. Place the app’s logo (named `hutch.png`) in `www/` (optional).
+4. Place the app’s logo (`hutch.png`) in the `www/` folder (it’s already referred to in the README).
 
 ---
 
@@ -91,11 +94,12 @@ biome4all/
 ├── app.R
 ├── README.md
 └── www/
-    └── hutch.png       # (optional logo or pipeline diagram)
+    └── hutch.png       # Logo displayed in UI and README
 ```
 
 * **app.R**: Main Shiny application script
-* **www/hutch.png**: Logo or pipeline image displayed in the UI
+* **README.md**: This documentation file
+* **www/hutch.png**: Logo displayed at the top of the app and in README
 
 ---
 
@@ -115,7 +119,7 @@ Please ensure your code follows consistent style and includes minimal but clear 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -128,3 +132,5 @@ If you need help, have questions, or want to report an issue, please contact:
 
 Feel free to reach out for assistance with installation, data formatting, or troubleshooting. Happy analyzing!
 
+```
+```
