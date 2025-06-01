@@ -1,0 +1,16 @@
+tax_name,tax_id,rank,Sample_1,Sample_2,Sample_3,Sample_4,Sample_5,Sample_6,Sample_7,Sample_8,Sample_9,Sample_10
+Escherichia_coli,1001,Species,500,0,120,300,50,0,450,700,100,20
+Bacteroides_fragilis,1002,Species,250,100,80,500,200,150,0,0,300,400
+Staphylococcus_aureus,1003,Species,0,600,10,0,550,600,30,20,400,500
+Lactobacillus_rhamnosus,1004,Species,120,50,300,450,80,220,180,0,0,100
+Clostridium_difficile,1005,Species,30,0,200,0,0,100,500,800,50,10
+Prevotella_copri,1006,Species,400,300,0,0,100,50,20,0,200,150
+Faecalibacterium_prausnitzii,1007,Species,600,0,350,700,0,0,650,400,300,250
+Akkermansia_muciniphila,1008,Species,0,150,100,250,300,400,0,100,50,0
+Enterococcus_faecalis,1009,Species,200,100,50,0,150,0,100,300,250,80
+Bifidobacterium_longum,1010,Species,50,200,400,100,0,350,0,250,100,60
+Clostridium_saccharolyticum,1011,Species,75,80,0,300,400,20,0,50,600,700
+Roseburia_intestinalis,1012,Species,0,220,180,0,300,100,250,0,0,90
+Parabacteroides_distasonis,1013,Species,300,0,500,200,100,0,400,100,50,20
+Streptococcus_thermophilus,1014,Species,150,50,0,100,0,250,300,200,0,0
+Veillonella_parvula,1015,Species,0,400,50,0,100,500,0,150,200,350
