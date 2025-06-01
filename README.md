@@ -128,6 +128,3 @@ If you need help, have questions, or want to report an issue, please contact:
 
 Feel free to reach out for assistance with installation, data formatting, or troubleshooting. Happy analyzing!
 
-```
-```
-
