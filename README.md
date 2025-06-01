@@ -1,38 +1,43 @@
-````markdown
 # Biome4all
 
 ![Biome4all Logo](www/hutch.png)
 
-**Biome4all** is a Shiny application designed to help  visualize and analyze microbiome data.
+**Biome4all** is a Shiny application designed to help visualize and analyze microbiome data.
 
 ---
 
 ## Features
 
-- **Data Upload**  
-  - Upload a metadata CSV (first column: sample IDs)  
-  - Upload a taxon abundance CSV (first column: `tax_name`)
+* **Data Upload**
 
-- **Alpha Diversity**  
-  - Compute Observed, Shannon, Simpson, and Evenness indices  
-  - Boxplots grouped by any metadata field  
-  - Downloadable alpha diversity table
+  * Upload a metadata CSV (first column: sample IDs)
+  * Upload a taxon abundance CSV (first column: `tax_name`)
 
-- **Stacked Bar Plot**  
-  - Display relative abundances per sample  
-  - Facet by any metadata column (e.g., Treatment, Timepoint)  
-  - Dynamic Viridis palette based on number of top taxa
+* **Alpha Diversity**
 
-- **Reads per Sample**  
-  - Bar chart of total reads by sample
+  * Compute Observed, Shannon, Simpson, and Evenness indices
+  * Boxplots grouped by any metadata field
+  * Downloadable alpha diversity table
 
-- **Heatmap**  
-  - Interactive heatmap of raw abundance matrix (Viridis colors)
+* **Stacked Bar Plot**
 
-- **PCoA (Bray–Curtis)**  
-  - Distance calculation on transposed abundance (samples × taxa)  
-  - 2D ordination with points, centroids, and 95% ellipses  
-  - Color-coded by any metadata field
+  * Display relative abundances per sample
+  * Facet by any metadata column (e.g., Treatment, Timepoint)
+  * Dynamic Viridis palette based on number of top taxa
+
+* **Reads per Sample**
+
+  * Bar chart of total reads by sample
+
+* **Heatmap**
+
+  * Interactive heatmap of raw abundance matrix (Viridis colors)
+
+* **PCoA (Bray–Curtis)**
+
+  * Distance calculation on transposed abundance (samples × taxa)
+  * 2D ordination with points, centroids, and 95% ellipses
+  * Color-coded by any metadata field
 
 ---
 
@@ -43,7 +48,7 @@
    ```bash
    git clone https://github.com/yourusername/biome4all.git
    cd biome4all
-````
+   ```
 
 2. Ensure you have R (≥ 4.0) installed.
 
@@ -130,7 +135,4 @@ If you need help, have questions, or want to report an issue, please contact:
 > **Théo Ghelfenstein-Ferreira**
 > Email: [theo.ferreira@aphp.fr](mailto:theo.ferreira@aphp.fr)
 
-Feel free to reach out for assistance with installation, data formatting, or troubleshooting. Happy analyzing!
-
-```
-```
+Feel free to reach out for assistance with installation, data formatting, or troubleshooting.
