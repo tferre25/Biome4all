@@ -1,6 +1,6 @@
 # Biome4all
 
-![Biome4all Logo](www/hutch.png)
+<img src="www/hutch.png" alt="Biome4all Logo" width="150" height="150" />
 
 **Biome4all** is a Shiny application designed to help visualize and analyze microbiome data.
 
